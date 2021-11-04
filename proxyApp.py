@@ -247,7 +247,7 @@ elif error==None:
 else:
     flabel = tkinter.Label(text = u'\u274C'+" "+error,fg = 'blue',font = ('Tw Cen MT Condensed',15))
     flabel.place(relx=0.5,rely=0.4, anchor = 'center')
-labelc = tkinter.Label(root2,text = u'\u00A9' + '  Pratyush Lokhande', font = ('Amazed Breath',12))
+labelc = tkinter.Label(root2,text = u'\u00A9' + '  Shubham Patidar', font = ('Amazed Breath',12))
 labelc.place(x=90,y=70)
 root2.geometry('250x100+100+100')
 root2.mainloop()
